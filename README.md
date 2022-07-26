@@ -74,6 +74,6 @@ Mining Pool
 
 ### Exchange Group
 - Wechat
-![image](https://user-images.githubusercontent.com/105836778/180933270-f187e77b-c656-4e02-b4eb-34675c5301fa.png)
+ <img src="https://user-images.githubusercontent.com/105836778/180933270-f187e77b-c656-4e02-b4eb-34675c5301fa.png" width="200">
 
 [Back to top](#awesome-aleo)
