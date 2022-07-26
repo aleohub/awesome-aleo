@@ -55,7 +55,8 @@ Explorer
 
 - [Aleo Explorer](https://www.aleo.network)
 - [aleochain.io](https://aleochain.io) 
-- [aleo.work](https://aleo.work) 
+- [aleo.info](https://aleo.info/zh) 
+- [Haruka's Aleo Explorer](https://explorer.hamp.app/)
 
 Mining Pool
 
@@ -70,5 +71,9 @@ Mining Pool
 - [ALEO Zk Encyclopedia](https://bead-rocket-066.notion.site/Zk-Encyclopedia-6675b8e5bdf243c994ca243cf417c3d0) 
 - [Matter Labs Zk Awesome](https://github.com/matter-labs/awesome-zero-knowledge-proofs) 
 - [中文材料](https://github.com/sec-bit/learning-zkp/blob/master/zkp-resource-list.md)
+
+### Exchange Group
+- Wechat
+![image](https://user-images.githubusercontent.com/105836778/180933270-f187e77b-c656-4e02-b4eb-34675c5301fa.png)
 
 [Back to top](#awesome-aleo)
