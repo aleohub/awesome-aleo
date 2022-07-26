@@ -59,6 +59,7 @@ Explorer
 
 Mining Pool
 
+- [AleoX](https://www.aleox.io/) 
 - [1to.sh](https://1to.sh/) 
 - [Hpool](https://www.hpool.in/) 
 - [6block](https://zk.work) 
